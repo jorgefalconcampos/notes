@@ -1,5 +1,7 @@
 # mvn-front
 
+Back to April 2020 I've created this project in my spare time. I wanted to integrate VueJS + Mongo + Express - tbh I do not remember which tutorial I saw, and actually this was not versioned and the project in my old laptop didn't have a single commit, so... I decided to upload it a year later 😅
+
 ## Project setup
 ```
 npm install
